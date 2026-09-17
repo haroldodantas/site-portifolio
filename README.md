@@ -10,6 +10,8 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 * Git avançado
 
 1. Começando com git
+    1. o que é git
+    2. Instalando git na maquina
 2. Aprendendo sobre branches
 3. Git avançado
 
