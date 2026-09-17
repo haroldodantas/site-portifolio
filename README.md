@@ -1,3 +1,4 @@
+![Logo do git](https://assets.msn.com/staticsb/statics/latest/brand/new-msn-logo-color-black.svg)
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
@@ -16,5 +17,6 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 
 ###### Titulo 6
 
-
+### Rede Social:
+[Instagram](https://instagram.com/sujeitoprogramador)
 
