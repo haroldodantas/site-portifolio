@@ -9,6 +9,10 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 * Aprendendo sobre branches
 * Git avançado
 
+1. Começando com git
+2. Aprendendo sobre branches
+3. Git avançado
+
 
 
 # Titulo 1
