@@ -34,4 +34,8 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 
 [*Youtube*](https://youtube.com/c/sujeitoprogramador)
 
+>Este é um blockquote usado para destacar alguma area.
+
+>Segunda area destacada
+
 
