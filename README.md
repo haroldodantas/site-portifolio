@@ -43,7 +43,7 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 
 >Segunda area destacada
 
-**Comando para rodar o projeto:**
+### Comando para rodar o projeto:
 
 ```
 npm start
