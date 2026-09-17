@@ -20,3 +20,5 @@ _Entendendo o que é **git**, aprendendo sobre **repositórios**,trabalhando com
 ### Rede Social:
 [Instagram](https://instagram.com/sujeitoprogramador)
 
+[Youtube](https://youtube.com/c/sujeitoprogramador)
+
